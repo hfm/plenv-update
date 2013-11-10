@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eu
+set -e
 [ -n "$PLENV_DEBUG" ] && set -x
 
 indent_output() {
