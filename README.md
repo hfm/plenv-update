@@ -14,7 +14,7 @@ brew install plenv-update
 
 ```sh
 mkdir -p $PLENV_ROOT/plugins
-git clone git@github.com:rkh/rbenv-update.git
+git clone git@github.com:Tacahilo/plenv-update.git
 ```
 
 ## Usage
