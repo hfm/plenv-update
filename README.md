@@ -4,12 +4,6 @@ This [plenv](https://github.com/tokuhirom/plenv) plugin, is a port of the [rbenv
 
 ## Installation
 
-### Homebrew
-
-```
-brew install plenv-update
-```
-
 ### GitHub
 
 ```sh
