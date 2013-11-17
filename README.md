@@ -4,8 +4,6 @@ This [plenv](https://github.com/tokuhirom/plenv) plugin, is a port of the [rbenv
 
 ## Installation
 
-### GitHub
-
 ```sh
 mkdir -p $PLENV_ROOT/plugins
 git clone git@github.com:Tacahilo/plenv-update.git $PLENV_ROOT/plugins/plenv-update
