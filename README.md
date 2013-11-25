@@ -13,6 +13,23 @@ git clone git@github.com:Tacahilo/plenv-update.git $PLENV_ROOT/plugins/plenv-upd
 
 ```
 $ plenv update
+updating plenv
+ |  Already on 'master'
+ |  From git://github.com/tokuhirom/plenv
+ |  * branch            master     -> FETCH_HEAD
+ |  Already up-to-date.
+
+updating perl-build
+ |  Already on 'master'
+ |  From git://github.com/tokuhirom/Perl-Build
+ |  * branch            master     -> FETCH_HEAD
+ |  Already up-to-date.
+
+updating plenv-update
+ |  Already on 'master'
+ |  From github.com:Tacahilo/plenv-update
+ |  * branch            master     -> FETCH_HEAD
+ |  Already up-to-date.
 ```
 
 ## AUTHOR
